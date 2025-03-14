@@ -38,45 +38,7 @@ Real-Time Communication: Video, chat, and voice interaction between selectors an
 Data Analytics & Reporting: Insights on individual and group performance.
 Security Layer: Encryption, access control, and classified data protection.
 Cloud-Based Infrastructure: Scalable architecture for multiple users across locations.
- ┌───────────────────────────────┐
- │         User Interface        │
- │   (Web-based Dashboard)       │
- │   - Selector Panel            │
- │   - Applicant Panel           │
- └────────────┬──────────────────┘
-              │
- ┌────────────▼─────────────┐
- │  AI-Based Assessment     │
- │  - Decision Analysis     │
- │  - Behavior Prediction   │
- │  - Adaptive Difficulty   │
- └────────────┬─────────────┘
-              │
- ┌────────────▼─────────────┐
- │  Simulation Engine       │
- │  - Military Scenarios    │
- │  - Crisis Management     │
- │  - Strategy/Logistics    │
- └────────────┬─────────────┘
-              │
- ┌────────────▼─────────────┐
- │  Real-Time Communication │
- │  - Video/Chat            │
- │  - Feedback Mechanism    │
- └────────────┬─────────────┘
-              │
- ┌────────────▼─────────────┐
- │  Data Analytics & Reports│
- │  - Performance Metrics   │
- │  - AI Insights           │
- └────────────┬─────────────┘
-              │
- ┌────────────▼─────────────┐
- │  Security & Cloud Infra  │
- │  - Role-Based Access     │
- │  - Encryption            │
- │  - Scalable Deployment   │
- └──────────────────────────┘
+ ![Screenshot 2025-03-14 090430](https://github.com/user-attachments/assets/10cc8b12-8d94-41d4-8e35-fd5eb2a6cb10)
 
 ## Use Cases
 1. Military Officer Selection & Recruitment
@@ -94,37 +56,7 @@ Crisis response training for handling real-world military operations.
 5. Remote Assessment & Training for Defense Personnel
 Secure online platform for continuous training and certification.
 Performance tracking and AI-based feedback for skill enhancement.
-          +------------------------------------+
-          |   Web-Based Selector-Applicant    |
-          |   Simulation Software (System)    |
-          +------------------------------------+
-                 |               |
-       +--------+|               |+--------+
-       |         |               |         |
-+------v------+  |        +------v------+  |  +------v------+
-|  Applicant  |  |        |  Selector   |  |  |   Admin     |
-+-------------+  |        +-------------+  |  +-------------+
-       |         |               |         |
-+------v------+  |        +------v------+  |
-| Take Test  |  |        | Assign Tests |  |
-| & Simulation|  |        | & Scenarios |  |
-+-------------+  |        +-------------+  |
-       |         |               |         |
-+------v------+  |        +------v------+  |
-| Receive AI  |  |        | Evaluate    |  |
-| Feedback    |  |        | Performance |  |
-+-------------+  |        +-------------+  |
-       |         |               |         |
-+------v------+  |        +------v------+  |
-| View Scores |  |        | Generate   |  |
-| & Reports   |  |        | Reports    |  |
-+-------------+  |        +-------------+  |
-                 |               |
-           +-----v------+  +-----v------+
-           | Manage     |  | Manage     |
-           | Security   |  | Database   |
-           | & Access   |  | & Logs     |
-           +------------+  +------------+
+  ![Screenshot 2025-03-14 090438](https://github.com/user-attachments/assets/53c72ea4-811f-4863-9b15-cacc2a9008e1)
 
 ## Technology Stack
 Frontend HTML5/CSS3: For structuring and styling the web pages.
